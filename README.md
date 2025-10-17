@@ -18,7 +18,7 @@
   <div>
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=MiuKaShi&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
+    <!-- wakatime -->
     <a href="https://wakatime.com/@miukashi"><img src="https://wakatime.com/badge/user/b7fc2be0-1299-4f1c-825b-45fd25887d7d.svg" /></a>
 
   </div>
@@ -33,9 +33,9 @@
 
 </div>
 
-# _Hi there 👋, I'm Zhang._
+# _Hi there 🙋, I'm Zhang._
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
+I love to talk on trending ⚡ technology ⚡.
 
 - 🚀 I use daily:
   [![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=FFCA28)](#)
@@ -84,7 +84,9 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/language/matlab.svg" alt="Matlab" height="60" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/language/julia.svg" alt="Julia" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
@@ -96,26 +98,29 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 #### Simulation
 
 <div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Ansys.svg" alt="Ansys" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Matlab.svg" alt="Matlab" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Autocad.svg" alt="Autocad" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Freecad.svg" alt="Freecad" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Openfoam.svg" alt="Openfoam" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Paraview.svg" alt="Paraview" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Inkscape.svg" alt="Inkscape" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Ansys.svg" alt="Ansys" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Matlab.svg" alt="MATLAB" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Autocad.svg" alt="Autocad" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Freecad.svg" alt="Freecad" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Openfoam.svg" alt="Openfoam" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/Paraview.svg" alt="Paraview" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/software/gmsh.svg" alt="Gmsh" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-#### Software
+#### Tool
 
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/tool/Inkscape.svg" alt="Inkscape" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/tool/Gimp.svg" alt="GIMP" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/tool/Finalcutpro.svg" alt="FinalCutPro" height="50" />
 </div>
 </td>
 </tr>
