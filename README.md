@@ -120,7 +120,7 @@ I love to talk on trending ⚡ technology ⚡.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/tool/Finalcutpro.svg" alt="FinalCutPro" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/tool/Finalcutpro.png" alt="FinalCutPro" height="50" />
 </div>
 </td>
 </tr>
