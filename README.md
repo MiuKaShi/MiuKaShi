@@ -103,7 +103,11 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 #### Software
 
 <div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Ansys.svg" alt="Ansys" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Ansys.svg" alt="Ansys" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Matlab.svg" alt="Matlab" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Autocad.svg" alt="Autocad" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Freecad.svg" alt="Freecad" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/Inkscape.svg" alt="Inkscape" height="50" />
 </div>
 
 </td>
