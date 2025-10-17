@@ -24,17 +24,16 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+
+  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/master/img/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiuKaShi1/MiuKaShi/master/img/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/master/img/snake.svg">
   </picture>
 
 </div>
 
-# _Hi there 👋, I'm Xiao._
-
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快！&center=true&size=27>)](https://git.io/typing-svg)
+# _Hi there 👋, I'm Zhang._
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
