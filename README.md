@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- dynamic typing effect 动态打字效果 -->
+  <!-- dynamic typing effect -->
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Life is short,;stay hungry, stay foolish！&center=true&size=27>)](https://git.io/typing-svg)
 
-  <!-- knock code pictures 敲代码的图片 -->
+  <!-- knock code pictures -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
+  <!-- for beauty -->
   <div>&nbsp;</div>
 
-  <!-- profile logo 个人资料徽标 -->
+  <!-- profile logo -->
   <div>
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=MiuKaShi&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
@@ -23,7 +23,7 @@
 
   </div>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- Snake Code Contribution Map -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/output/github-contribution-grid-snake-dark.svg">
@@ -51,7 +51,7 @@ I love to talk on trending ⚡ technology ⚡.
   [![ANSYS](https://img.shields.io/badge/ANSYS-57A143?logo=ansys&logoColor=fff)](#)
   [![Neovim](https://img.shields.io/badge/Neovim-706bc8?logo=neovim&logoColor=fff)](#)
   [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)](https://blog.i-xiao.space/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)](#)
   [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
   [![Pandoc](https://img.shields.io/badge/Pandoc-150458?logo=pandoc&logoColor=fff)](#)
   [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)
@@ -61,18 +61,18 @@ I love to talk on trending ⚡ technology ⚡.
   [![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](#)
   [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)
   [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)
   [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 
 - 🌱 I’m currently learning:
   [![OpenFOAM](https://img.shields.io/badge/OpenFOAM-6E9F18?logo=nixos&logoColor=fff)](#)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
+  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](#)
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiuKaShi&hide=GLSL&hide_progress=true&layout=compact" height=145/>
 </span><span><img src="https://github-readme-stats.vercel.app/api?username=MiuKaShi&count_private=true&show_icons=true" height=145/>
-</span>](https://blog.i-xiao.space/)
+</span>](#)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miukashi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
