@@ -98,12 +98,12 @@ I love to talk on trending ⚡ technology ⚡.
 #### Simulation
 
 <div align="center">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Ansys.svg" alt="Ansys" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Matlab.svg" alt="MATLAB" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Autocad.svg" alt="Autocad" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Freecad.svg" alt="Freecad" height="40" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Openfoam.svg" alt="Openfoam" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Paraview.svg" alt="Paraview" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Ansys.svg" alt="Ansys" height="30" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Matlab.svg" alt="MATLAB" height="30" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Autocad.svg" alt="Autocad" height="30" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Freecad.svg" alt="Freecad" height="30" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Openfoam.svg" alt="Openfoam" height="30" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Paraview.svg" alt="Paraview" height="30" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/MiuKaShi/MiuKaShi/main/img/simulation/Gmsh.svg" alt="Gmsh" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
