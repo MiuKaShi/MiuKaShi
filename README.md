@@ -70,29 +70,18 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![OpenFOAM](https://img.shields.io/badge/OpenFOAM-6E9F18?logo=nixos&logoColor=fff)](#)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+<div style="display: flex; align-items: center;">
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiuKaShi&count_private=true&show_icons=true" height="168" style="margin-bottom: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiuKaShi&hide=GLSL&hide_progress=true&layout=compact" height="188">
+  </div>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+  <div style="margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=miukashi&langs_count=10" height="350">
+  </div>
+</div>
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiuKaShi&hide=GLSL&hide_progress=true&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=MiuKaShi&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
-
-<!--
-<table border="0">
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
-</td>
-</tr>
-</table>
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
--->
+[![Harlok's WakaTime stats]()](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set
 
