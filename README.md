@@ -70,11 +70,11 @@ I love to talk on trending ⚡ technology ⚡.
   [![OpenFOAM](https://img.shields.io/badge/OpenFOAM-6E9F18?logo=nixos&logoColor=fff)](#)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](#)
 
-[<span><img src="https://github-readme-stats-two-pearl-90.vercel.app/api/top-langs/?username=MiuKaShi&hide=GLSL&hide_progress=true&layout=compact" height=145/>
-</span><span><img src="https://github-readme-stats-two-pearl-90.vercel.app/api?username=MiuKaShi&count_private=true&show_icons=true" height=145/>
+[<span><img src="https://github-readme-stats-gamma-three-10.vercel.app/api/top-langs/?username=MiuKaShi&hide=GLSL&hide_progress=true&layout=compact" height=145/>
+</span><span><img src="https://github-readme-stats-gamma-three-10.vercel.app/api?username=MiuKaShi&count_private=true&show_icons=true" height=145/>
 </span>](#)
 
-[![WakaTime stats](https://github-readme-stats-two-pearl-90.vercel.app/api/wakatime?username=miukashi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats-gamma-three-10.vercel.app/api/wakatime?username=miukashi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set
 
